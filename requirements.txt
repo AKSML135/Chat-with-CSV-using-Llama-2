@@ -1,0 +1,11 @@
+streamlit
+pypdf
+langchain
+torch
+accelerate
+bitsandbytes
+transformers
+sentence_transformers
+faiss_cpu
+Langchain==0.0.225
+ctransformers==0.2.5
